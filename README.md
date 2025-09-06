@@ -1,11 +1,13 @@
 # AWS Certified Cloud Practitioner – Foundational Notes  
 
 This repo is where I’ve kept all my notes while preparing for the **AWS Certified Cloud Practitioner (Foundational)** exam.  
-You’ll find a mix of **topic-wise notes, PPTs, and video links** that I used for learning and quick revision.  
+It includes **topic-wise notes, PPTs, video links**, and also **450 practice Q&A with a sample test** to help with revision.  
+
 
 ## What’s Inside
 - Notes and short summaries of important concepts  
 - PPTs for quick review before the exam  
+- 450 practice questions with answers + a sample test  
 - Video references (YouTube/other sources I found useful)  
 
 ## Topics Covered
@@ -18,8 +20,9 @@ You’ll find a mix of **topic-wise notes, PPTs, and video links** that I used f
 Mainly to keep my preparation organized in one place and also to share with anyone else preparing for the exam.  
 
 ## How to Use
-- Check the notes/PPTs for revision  
-- Go through video links for better understanding  
-- Use this as a quick reference before the exam  
+- Go through notes/PPTs for revision  
+- Try the practice Q&A and sample test to check your understanding  
+- Use the video links for extra clarity  
+- Handy as a last-minute refresher before the exam  
 
-⭐ If this helps you, a star on the repo would be appreciated!
+⭐ If this helps you, a star on the repo would be awesome!
