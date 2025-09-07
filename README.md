@@ -25,4 +25,6 @@ Mainly to keep my preparation organized in one place and also to share with anyo
 - Use the video links for extra clarity  
 - Handy as a last-minute refresher before the exam  
 
+The YouTube link I followed for revision is: https://youtu.be/RyU1F6NkxBM?si=NtgMtFKwzLGauZl4
+
 ⭐ If this helps you, a star on the repo would be awesome!
