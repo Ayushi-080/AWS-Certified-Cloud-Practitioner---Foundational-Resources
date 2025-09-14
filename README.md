@@ -29,4 +29,6 @@ The YouTube link I followed for revision is: https://youtu.be/RyU1F6NkxBM?si=Ntg
 
 A sample test for your practice: https://simuladoclf.s3.amazonaws.com/english.html
 
-⭐ If this helps you, a star on the repo would be awesome!
+**⭐ If this helps you, a star on the repo would be awesome!**
+ 
+External resources such as YouTube links belong to their respective owners.  
